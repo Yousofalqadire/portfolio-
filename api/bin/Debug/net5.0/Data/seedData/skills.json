@@ -1,0 +1,52 @@
+[
+    {
+        "Id": 1,
+        "Name": "بكالوريس معلم صف",
+        "Photo": {
+            "Id": 1,
+            "Url": "https://res.cloudinary.com/alsuweadi-wears/image/upload/v1640646364/tp6uluahnhwib6lbdwc2.jpg",
+            "PublicId": "tp6uluahnhwib6lbdwc2",
+            "SkillId": 1
+        }
+    },
+    {
+        "Id": 2,
+        "Name": "السيرة الذاتية",
+        "Photo": {
+            "Id": 2,
+            "Url": "https://res.cloudinary.com/alsuweadi-wears/image/upload/v1640646426/xvl1ub2y4vimtergznti.jpg",
+            "PublicId": "xvl1ub2y4vimtergznti",
+            "SkillId": 2
+        }
+    },
+    {
+        "Id": 3,
+        "Name": "شهادة الخبرة وزارة التربية و التعليم",
+        "Photo": {
+            "Id": 3,
+            "Url": "https://res.cloudinary.com/alsuweadi-wears/image/upload/v1640646486/gi8dlwhean1t0tccubas.jpg",
+            "PublicId": "gi8dlwhean1t0tccubas",
+            "SkillId": 3
+        }
+    },
+    {
+        "Id": 4,
+        "Name": "مطور صفحات الويب مبادرة مليون مبرمج",
+        "Photo": {
+            "Id": 4,
+            "Url": "https://res.cloudinary.com/alsuweadi-wears/image/upload/v1640646544/sg9z2nyvcpgq1s7nnewy.jpg",
+            "PublicId": "sg9z2nyvcpgq1s7nnewy",
+            "SkillId": 4
+        }
+    },
+    {
+        "Id": 5,
+        "Name": "مطور asp.net",
+        "Photo": {
+            "Id": 5,
+            "Url": "https://res.cloudinary.com/alsuweadi-wears/image/upload/v1640646585/qizffha2ozdxndpwuz9q.jpg",
+            "PublicId": "qizffha2ozdxndpwuz9q",
+            "SkillId": 5
+        }
+    }
+]
